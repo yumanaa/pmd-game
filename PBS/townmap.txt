@@ -1,5 +1,5 @@
 ﻿[0]
-Name=Essen Region
+Name=Regiony Region
 Filename=mapRegion0.png
 Point=13,12,"Lappet Town","Oak's Lab",2,8,8,
 Point=13,11,"Route 1",,,,,
