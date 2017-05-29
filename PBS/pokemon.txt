@@ -1,4 +1,4 @@
-﻿﻿[1]
+﻿[1]
 Name=Bulbasaur
 InternalName=BULBASAUR
 Type1=GRASS
@@ -3775,7 +3775,7 @@ Pokedex=An Eevee has an unstable genetic makeup that suddenly mutates due to its
 BattlerPlayerY=0
 BattlerEnemyY=20
 BattlerAltitude=0
-Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Location,28,GLACEON,Location,34,ESPEON,HappinessDay,,UMBREON,HappinessNight,SYLVEON,DayHoldItem,SWEETHEART,HasMove,BABYDOLLEYES
+Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Location,28,GLACEON,Location,34,ESPEON,HappinessDay,,UMBREON,HappinessNight,,SYLVEON,DayHoldItem,SWEETHEART
 [134]
 Name=Vaporeon
 InternalName=VAPOREON
@@ -20131,14 +20131,14 @@ GrowthRate=MediumFast
 BaseEXP=60
 EffortPoints=0,1,0,0,0,0
 Rareness=255
-Happiness:70
-Moves=1,VICEGRIP,4,STRINGSHOT,7,MUDSLAP,10,BITE,13,BUGBITE,16,SPARK,19,ACROBATICS,22,CRUNCH,25,X-SCISSOR,28,DIG
-Compatibiity:Bug
-StepsToHatch:3840
-Height:0.4
-Weight:4.4
-Color:Gray
-Kind:Larva
+Happiness=70
+Moves=1,VICEGRIP,4,STRINGSHOT,7,MUDSLAP,10,BITE,13,BUGBITE,16,SPARK,19,ACROBATICS,22,CRUNCH,25,XSCISSOR,28,DIG
+Compatibility=Bug
+StepsToHatch=3840
+Height=0.4
+Weight=4.4
+Color=Gray
+Kind=Larva
 Pokedex=They often gather near places frequented by electric Pokémon in order to avoid being attacked by bird Pokémon.
 BattlerPlayerY=0
 BattlerEnemyY=9
