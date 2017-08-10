@@ -526,7 +526,7 @@
 526,PRISONBOTTLE,Prison Bottle,Prison Bottles,8,0,"A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.",5,0,6,
 527,SACHET,Sachet,Sachets,1,2100,"A sachet filled with perfumes that are just too overwhelming. It's loved by a certain Pokémon.",1,0,0
 528,WHIPPEDDREAM,Whipped Dream, Whipped Dreams,1,2100,"A soft and sweet treatmade of fluffy, puffy, whipped and whirled cream. It's loved by a certain Pokémon",1,0,0
-529,REDNECTAR,Red Nectar,Red Nectar,1,500,"A flower nectar obtained at Ula’ula Meadow. It changes the form of certain species of Pokémon."
-530,YELLOWNECTAR,Yellow Nectar,Yellow Nectar,1,500,"A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon."
-531,PINKNECTAR,Pink Nectar,Pink Nectar,1,500,"The flower nectar obtained at the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon."
-532,PURPLENECTAR,Purple Nectar,Purple Nectar,1,500,"A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon."
+529,REDNECTAR,Red Nectar,Red Nectar,1,500,"A flower nectar obtained at Ula’ula Meadow. It changes the form of certain species of Pokémon.",1,0,0
+530,YELLOWNECTAR,Yellow Nectar,Yellow Nectar,1,500,"A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon.",1,0,0
+531,PINKNECTAR,Pink Nectar,Pink Nectar,1,500,"The flower nectar obtained at the flowering shrubs on Royal Avenue. It changes the form of certain species of Pokémon.",1,0,0
+532,PURPLENECTAR,Purple Nectar,Purple Nectar,1,500,"A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.",1,0,0
