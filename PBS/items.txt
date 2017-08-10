@@ -526,3 +526,27 @@
 526,PRISONBOTTLE,Prison Bottle,Prison Bottles,8,0,"A bottle believed to have been used to seal away the power of a certain Pokémon long, long ago.",5,0,6,
 527,SACHET,Sachet,Sachets,1,2100,"A sachet filled with perfumes that are just too overwhelming. It's loved by a certain Pokémon.",1,0,0
 528,WHIPPEDDREAM,Whipped Dream, Whipped Dreams,1,2100,"A soft and sweet treatmade of fluffy, puffy, whipped and whirled cream. It's loved by a certain Pokémon",1,0,0
+529,REDNECTAR,Red Nectar,Red Nectar,1,500,"A flower nectar obtained at Ula’ula Meadow. It changes the form of certain species of Pokémon.",1,0,0
+530,YELLOWNECTAR,Yellow Nectar,Yellow Nectar,1,500,"A flower nectar obtained at Melemele Meadow. It changes the form of certain species of Pokémon.",1,0,0
+531,PINKNECTAR,Pink Nectar,Pink Nectar,1,500,"A flower nectar obtained at the Royal Avenue shrubs. It changes the form of certain species of Pokémon.",1,0,0
+532,PURPLENECTAR,Purple Nectar,Purple Nectar,1,500,"A flower nectar obtained at Poni Meadow. It changes the form of certain species of Pokémon.",1,0,0
+533,BUGMEMORY,Bug Memory,Bug Memories,1,1000,"A memory disc containing Bug-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+534,DARKMEMORY,Dark Memory,Dark Memories,1,1000,"A memory disc containing Dark-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+535,DRAGONMEMORY,Dragon Memory,Dragon Memories,1,1000,"A memory disc containing Dragon-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+536,ELECTRICMEMORY,Electric Memory,Electric Memories,1,1000,"A memory disc containing Electric-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+537,FAIRYMEMORY,Fairy Memory,Fairy Memories,1,1000,"A memory disc containing Fairy-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+538,FIGHTINGMEMORY,Fighting Memory,Fighting Memories,1,1000,"A memory disc containing Fighting-type data. Changes the holder's type if held by a certain species of Pokémon.",0,0,0
+539,FIREMEMORY,Fire Memory,Fire Memories,1,1000,"A memory disc containing Fire-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+540,FLYINGMEMORY,Flying Memory,Flying Memories,1,1000,"A memory disc containing Flying-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+541,GHOSTMEMORY,Ghost Memory,Ghost Memories,1,1000,"A memory disc containing Ghost-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+542,GRASSMEMORY,Grass Memory,Grass Memories,1,1000,"A memory disc containing Grass-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+543,GROUNDMEMORY,Ground Memory,Ground Memories,1,1000,"A memory disc containing Ground-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+544,ICEMEMORY,Ice Memory,Ice Memories,1,1000,"A memory disc containing Ice-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+545,POISONMEMORY,Poison Memory,Poison Memories,1,1000,"A memory disc containing Poison-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+546,PSYCHICMEMORY,Psychic Memory,Psychic Memories,1,1000,"A memory disc containing Psychic-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+547,ROCKMEMORY,Rock Memory,Rock Memories,1,1000,"A memory disc containing Rock-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+548,STEELMEMORY,Steel Memory,Steel Memories,1,1000,"A memory disc containing Steel-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+549,WATERMEMORY,Water Memory,Water Memories,1,1000,"A memory disc containing Water-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+550,CYBERMEMORY,Cyber Memory,Cyber Memories,1,1000,"A memory disc containing Cyber-type data. It changes the holder's type if held by a certain species of Pokémon.",0,0,0
+551,PIXIEPLATE,Pixie Plate,Pixie Plates,1,1000,"An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fairy-type moves.",0,0,0
+552,BINARYPLATE,Binary Plate,Binary Plates,1,1000,"An item to be held by a Pokémon. It is a stone tablet that boosts the power of Cyber-type moves.",0,0,0

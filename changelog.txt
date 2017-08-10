@@ -345,3 +345,6 @@ http://i.imgur.com/4lxiK77.png,Graphics/Battlebacks/playerbase/MountainGrass.png
 http://i.imgur.com/FTm60ed.png,Graphics/Battlebacks/playerbase/Snow.png
 http://i.imgur.com/0v2kzqy.png,Graphics/Battlebacks/playerbase/Underwater.png
 http://i.imgur.com/MAJ4JdO.png,Graphics/Battlebacks/playerbase/Water.png
+[1.3.6]
+# fixed the naming mismatch for Groudon's and Kyogre's primal forms
+EliteBattle_UI
