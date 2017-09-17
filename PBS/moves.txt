@@ -685,3 +685,5 @@
 685,THOUSANDARROWS,Thousand Arrows,11C,90,GROUND,Physical,100,10,0,04,0,bf,"This move also hits opposing Pokémon that are in the air. Those Pokémon are knocked down to the ground." 
 686,THOUSANDWAVES,Thousand Waves,0EF,90,GROUND,Physical,100,10,0,04,0,bf,"The user attacks with a wave that crawls along the ground. Those hit can't flee from battle."
 687,LIGHTOFRUIN,Light of Ruin,0FC,140,FAIRY,Special,90,5,0,00,0,bf,"Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot."
+688,DIAMONDSTORM,Diamond Storm,136,100,ROCK,Physical,95,5,50,04,0,bf,"The user whips up a storm of diamonds to damage opposing Pokémon. This may also raise the user's Defense stat."
+689,STEAMERUPTION,Steam Eruption,00A,110,WATER,Special,95,5,30,00,0,bf,"The user immerses the target in superheated steam. This may also leave the target with a burn."
